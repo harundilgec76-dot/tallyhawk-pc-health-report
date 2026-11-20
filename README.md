@@ -61,7 +61,8 @@ Options:
 
 ## Also free
 
-**[TallyHawk Software & License Auditor](https://github.com/harundilgec76-dot/tallyhawk-license-auditor)**: every installed app, Windows/Office activation and end-of-life software for one PC.
+- **[TallyHawk Lite](https://github.com/harundilgec76-dot/tallyhawk-windows-inventory)**: free agentless Windows inventory, hardware, serial, OS build and disk usage for every PC in one CSV.
+- **[TallyHawk Software & License Auditor](https://github.com/harundilgec76-dot/tallyhawk-license-auditor)**: every installed app, Windows/Office activation and end-of-life software for one PC.
 
 ## License
 
